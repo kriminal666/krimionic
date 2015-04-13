@@ -1,0 +1,2 @@
+# krimionic
+Ionic test proyect
